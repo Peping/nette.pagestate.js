@@ -1,0 +1,26 @@
+{
+  "name": "nette.pagestate.js",
+  "main": "nette.pagestate.js",
+  "homepage": "https://github.com/Peping/nette.pagestate.js",
+  "authors": [
+    "Peping <Peping110@yahoo.com>"
+  ],
+  "description": "",
+  "moduleType": [],
+  "keywords": [
+    "nette",
+    "pagestate"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "www/js",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "nette.ajax.js": "~2.1.0"
+  }
+}
