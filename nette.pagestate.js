@@ -1,5 +1,5 @@
 (function() {
-    var pageState = '';
+    var pageState = '{}';
 
     var refreshPagestate = function () {
         var $ps = $('#nette-pagestate-container');
